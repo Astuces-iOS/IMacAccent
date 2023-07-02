@@ -27,3 +27,5 @@ Voici un aperçu après avoir utilisé l'App et choisis la nouvelle couleur dans
 # ⚙️ Configuration Systeme Requise
 
 - MacOS 11.3.1 est requis pour que les nouvelles couleurs fonctionnant.
+
+- Vous pouvez faire toute confiance en l'app par contre cette étape sera malgré requise : https://support.apple.com/fr-ca/guide/mac-help/mh40616/mac
